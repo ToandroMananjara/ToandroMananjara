@@ -1,4 +1,4 @@
-### Bonjour ! bienvenue sur mon compte github.Je vous souhaite une bonne visite.👋
+### align="left" Bonjour ! bienvenue sur mon compte github.Je vous souhaite une bonne visite.👋
 
 <!--
 **ToandroMananjara/ToandroMananjara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
