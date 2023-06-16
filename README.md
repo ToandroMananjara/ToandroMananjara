@@ -1,4 +1,4 @@
- <div font-size:"5px">
+ <div font-size:"1px">
        <h1 Mon biographie >
        Salut!
        Je m'apelle <span>MAHASALOTRA Toandromananjara</span>
