@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm MAHASALOTRA Toandromananjara</h1>
+<h1 align="center">
+<!--   Hi 👋, I'm MAHASALOTRA Toandromananjara -->
+  <img src="https://readme-typing-svg.herokuapp.com/?
+    font=Rigtheous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Toandro+Mananjara!;"/>
+</h1>
 <h3 align="center">A Junior Web Developper</h3>
 
 - 👨‍💻 All of my projects are available at [https://toandro.netlify.app/](https://toandro.netlify.app/)
