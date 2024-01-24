@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A Junior Web Developper</h3>
 <div align="center">
-  📫📫 I am currently in 3rd year in Mathematics and Computer Science
+  📫📫 I am currently in 3rd year of a Bachelor's degree in Mathematics and Computer Science </br> at the University of Antananarivo.
 </div>
 
 </br>
