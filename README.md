@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Toandro+Mananjara!;" />
 </h1>
-<h3 align="center">A Junior Web Developper</h3>
+<h3 align="center">A Web Developper</h3>
 <div align="center">
-  📫📫 I am currently in 3rd year of a Bachelor's degree in Mathematics and Computer Science </br> at the University of Antananarivo.
+  📫📫 I am currently in 3rd year of a Bachelor's degree in MISA</br> at the University of Antananarivo.
 </div>
 
 </br>
