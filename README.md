@@ -1,130 +1,44 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Toandro+Mananjara!;Full-Stack+Developer;AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=6EA8FE&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+Engineer;TypeScript+%E2%80%A2+Python+%E2%80%A2+LLMs" alt="typing" />
 </h1>
 
-<h3 align="center">
-Full-Stack Developer • AI Engineer • TypeScript • Python
-</h3>
-
-<div align="center">
-
-🚀 Passionate about building scalable web applications and AI-powered solutions.
-
-🎓 Master's Student (M2 MISA) at the University of Antananarivo
-
-💼 Full-Stack Developer & AI Engineer
-
-🌍 Based in Antananarivo, Madagascar
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="mailto:mahasalotra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://toandro.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/toandromananjara-mahasalotra-44b289280/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/anwar.mananjara/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 💻 Full-Stack Developer specialized in JavaScript/TypeScript
-- 🤖 AI Engineer focused on LLMs, RAG, AI Agents and Automation
-- ⚙️ Building production-ready web and AI applications
-- 🐳 Interested in Software Architecture, DevOps and Cloud
-- 📚 Currently pursuing a Master's degree (M2 MISA)
-
----
-
-## ⚒️ Tech Stack
-
-### Frontend
+<p align="center"><b>Toandromananjara Mahasalotra</b> — I design and ship production web & AI products, end to end.</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,materialui" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python" />
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
-</p>
-
-### DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
-</p>
-
-### AI / Machine Learning
-
-<p align="center">
-
-- 🤖 LLM APIs
-- 🧠 Generative AI
-- 🔍 RAG
-- ⚡ AI Agents
-- 💬 Prompt Engineering
-- 🗂️ Vector Databases
-- 📊 NLP
-- 🧠 Machine Learning
-- 📈 Deep Learning
-
+  <a href="https://toandro-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/toandromananjara-mahasalotra-44b289280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mahasalotra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://www.facebook.com/anwar.mananjara/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### > whoami
 
-<div align="center">
+```yaml
+name:      Toandromananjara Mahasalotra
+role:      Full-Stack Developer & AI Engineer
+company:   Redsmite (Freelance)
+education: M2 MISA — University of Antananarivo
+location:  Antananarivo, Madagascar
+focus:     [ web apps, LLM features, AI agents, automation ]
+```
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=toandromananjara&theme=react&border_radius=10"/>
+### > stack
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=toandromananjara&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,python,react,nextjs,tailwind,nodejs,nestjs,fastapi,prisma,postgres,mongodb,supabase,docker,linux,git" />
+</p>
 
-<br>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toandromananjara&layout=compact&theme=react&border_radius=10"/>
-
-</div>
-
----
-
-## 💡 Interests
-
-- Artificial Intelligence
-- Full-Stack Development
-- Software Architecture
-- Backend Engineering
-- Cloud & DevOps
-- Open Source
+**AI** &nbsp;`LLM APIs` `RAG` `AI Agents` `Vector DBs` `Prompt Engineering` `NLP` `Generative AI`
 
 ---
 
-<div align="center">
-
-⭐ Feel free to explore my repositories and connect with me!
-
+<!-- STATS: remplace `toandromananjara.vercel.app` par ton instance auto-hebergee une fois deployee.
+     Tant que ce n'est pas fait, garde les domaines publics ci-dessous (ils marchent via le cache Camo de GitHub). -->
+<div align=center>
+  <img width=390 src=https://github-readme-streak-stats.herokuapp.com/?user=toandromananjara&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=toandromananjara&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toandromananjara&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
